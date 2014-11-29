@@ -33,8 +33,7 @@
 
 Робоча група http://etransformation.org.ua/pro-robochu-hrupu/
 
-* В.Гройсман (віце-прем`єр, нині спікер парламенту)
-* О.Риженко (ІКТ мінрегіонбуду, нині агентство з е-урядування)
+* О.Риженко (ІКТ мінрегіонбуду, нині агентство з е-урядування) [презентація](https://www.youtube.com/watch?v=9pUNUOxYc4g)
 * О.Левченко (агенція регіонального розвитку Поділля) [презентація](https://www.youtube.com/watch?v=0PpDu4ZLkIA)
 * [інші](http://etransformation.org.ua/pro-robochu-hrupu/)
 
