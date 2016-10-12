@@ -48,7 +48,7 @@
 <tr>
 <td>Інтереси бізнесу</td>
 <td>Сильне лоббі</td>
-<td>Open data, робіть меньше</td>
+<td>Open data, робіть менше</td>
 <td>Data.gov.uk</td>
 </tr>
 </tbody>
